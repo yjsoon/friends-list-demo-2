@@ -11,6 +11,11 @@ import UIKit
 class FriendsTableViewController: UITableViewController {
     
     var friends: [Friend] = []
+    
+    
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
